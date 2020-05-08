@@ -2,9 +2,9 @@
 
 ## How To Play
 
-### Objective
+### Scenario
 
-Find the things and avoid the guys.
+Navigate the maze while avoiding enemies! Each time you collect an orb, your score will increase by 1 and another orb will appear, but watch out. Enemies are in the maze, too! Enemies can collect orbs as well, but when one of them does, your score will decrease instead! If you touch an enemy, it's game over!
 
 ### Controls
 
