@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['rate_10',['rate',['../class_rotate_behavior.html#ae1234ef475042ca8853f6719be0a714d',1,'RotateBehavior']]],
-  ['rotatebehavior_11',['RotateBehavior',['../class_rotate_behavior.html',1,'']]],
-  ['rotatebehavior_2ecs_12',['RotateBehavior.cs',['../_rotate_behavior_8cs.html',1,'']]]
+  ['malus_11',['Malus',['../class_score_type_behavior.html#a2b1f82ca9ddc033b9243a5ce92c5795cab14ca34a8b8100f9b7fc4d48f2291283',1,'ScoreTypeBehavior']]],
+  ['movebehavior_12',['MoveBehavior',['../class_move_behavior.html',1,'']]],
+  ['movebehavior_2ecs_13',['MoveBehavior.cs',['../_move_behavior_8cs.html',1,'']]]
 ];

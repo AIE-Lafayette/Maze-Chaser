@@ -43,6 +43,9 @@ public class ChaseBehavior : MonoBehaviour
 
         foreach (Transform target in targets)
         {
+            if (!target)
+                continue;
+
             //Find the distance to the current target
             float distance = (target.position - transform.position).magnitude;
             
