@@ -1,13 +1,13 @@
 var dir_f13b41af88cf68434578284aaf699e39 =
 [
-    [ "CameraFollowBehavior.cs", "_camera_follow_behavior_8cs.html", [
-      [ "CameraFollowBehavior", "class_camera_follow_behavior.html", "class_camera_follow_behavior" ]
-    ] ],
     [ "ChaseBehavior.cs", "_chase_behavior_8cs.html", [
       [ "ChaseBehavior", "class_chase_behavior.html", "class_chase_behavior" ]
     ] ],
     [ "DefeatBehavior.cs", "_defeat_behavior_8cs.html", [
       [ "DefeatBehavior", "class_defeat_behavior.html", "class_defeat_behavior" ]
+    ] ],
+    [ "FollowBehavior.cs", "_follow_behavior_8cs.html", [
+      [ "FollowBehavior", "class_follow_behavior.html", "class_follow_behavior" ]
     ] ],
     [ "ItemGetBehavior.cs", "_item_get_behavior_8cs.html", [
       [ "ItemGetBehavior", "class_item_get_behavior.html", "class_item_get_behavior" ]

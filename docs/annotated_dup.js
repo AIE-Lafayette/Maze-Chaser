@@ -1,8 +1,8 @@
 var annotated_dup =
 [
-    [ "CameraFollowBehavior", "class_camera_follow_behavior.html", "class_camera_follow_behavior" ],
     [ "ChaseBehavior", "class_chase_behavior.html", "class_chase_behavior" ],
     [ "DefeatBehavior", "class_defeat_behavior.html", "class_defeat_behavior" ],
+    [ "FollowBehavior", "class_follow_behavior.html", "class_follow_behavior" ],
     [ "ItemGetBehavior", "class_item_get_behavior.html", "class_item_get_behavior" ],
     [ "MoveBehavior", "class_move_behavior.html", "class_move_behavior" ],
     [ "RotateBehavior", "class_rotate_behavior.html", "class_rotate_behavior" ],

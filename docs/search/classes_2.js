@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['itemgetbehavior_36',['ItemGetBehavior',['../class_item_get_behavior.html',1,'']]]
+  ['followbehavior_35',['FollowBehavior',['../class_follow_behavior.html',1,'']]]
 ];

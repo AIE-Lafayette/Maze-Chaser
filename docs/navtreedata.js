@@ -44,7 +44,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_camera_follow_behavior_8cs.html"
+"_chase_behavior_8cs.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
