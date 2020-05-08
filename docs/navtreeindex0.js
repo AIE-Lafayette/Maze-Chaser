@@ -16,7 +16,6 @@ var NAVTREEINDEX0 =
 "class_defeat_behavior.html":[0,0,1],
 "class_defeat_behavior.html#a59e2ed5e4eff0422d6373bdbfbca1b4e":[0,0,1,0],
 "class_defeat_behavior.html#ab04c0e3871e05c7a613a708e45b125a8":[0,0,1,1],
-"class_defeat_behavior.html#afdeb6e0053efbf2c70d3b3cf463aa7e9":[0,0,1,2],
 "class_follow_behavior.html":[0,0,2],
 "class_follow_behavior.html#a4cb80730a95f8c8c87b3a886a84f91fe":[0,0,2,0],
 "class_item_get_behavior.html":[0,0,3],

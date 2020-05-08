@@ -41,7 +41,7 @@ public class ChaseBehavior : MonoBehaviour
 
         foreach (Transform target in targets)
         {
-            if (!target)
+            if (!target || !target.gameObject.activeInHierarchy)
                 continue;
 
             //Find the distance to the current target

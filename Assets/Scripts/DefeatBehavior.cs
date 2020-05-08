@@ -19,16 +19,11 @@ public class DefeatBehavior : MonoBehaviour
      **/
     public GameObject target;
 
-    /**
-     * A reference to the Camera that is following the target, if needed.
-     **/
-    public Camera targetCamera;
-
     private void OnTriggerEnter(Collider other)
     {
         if (other.gameObject == target)
         {
-            Destroy(target);
+            target.SetActive(false);
             restartButton.gameObject.SetActive(true);
         }
     }
