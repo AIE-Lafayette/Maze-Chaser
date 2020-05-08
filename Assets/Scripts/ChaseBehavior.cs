@@ -38,8 +38,6 @@ public class ChaseBehavior : MonoBehaviour
         Transform closestTarget = null;
         //Set the maximum distance to sight range
         float shortestDistance = sight;
-        //Set the default path to empty
-        NavMeshPath path = new NavMeshPath();
 
         foreach (Transform target in targets)
         {
