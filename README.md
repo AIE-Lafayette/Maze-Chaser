@@ -1,5 +1,7 @@
 # Maze Chaser
 
+Maze Chaser is a simplistic game developed as an example for students. It uses no imported assets and is playable using mouse, keyboard, or gamepad, or touch screen.
+
 ## How To Play
 
 ### Scenario
