@@ -22,8 +22,8 @@ Touch - Move
 
 ## WebGL Player
 
-https://vanphelan.github.io/Maze-Chaser/player/
+https://aie-lafayette.github.io/Maze-Chaser/player/
 
 ## Documentation
 
-https://vanphelan.github.io/Maze-Chaser/docs/
+https://aie-lafayette.github.io/Maze-Chaser/docs/
